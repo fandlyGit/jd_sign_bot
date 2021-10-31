@@ -1,6 +1,2 @@
 Bye!
 updata !
-case
-
-
-
